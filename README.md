@@ -1,4 +1,4 @@
-his project predicts whether a loan applicant is likely to default on a loan using machine learning techniques.
+This project predicts whether a loan applicant is likely to default on a loan using machine learning techniques.
 
 📁 Dataset
 The dataset is taken from Kaggle: Loan Prediction Dataset
